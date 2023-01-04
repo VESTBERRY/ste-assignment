@@ -27,7 +27,6 @@
 3. Once you are done, make a Pull Request from the new branch to the main
    branch. 
 4. Do not forget to provide the access to your repository for:
-    - [zako05](https://github.com/zako05)
     - [janokacer](https://github.com/janokacer)
 
 <br />
